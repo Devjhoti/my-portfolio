@@ -1,0 +1,27 @@
+.p1{
+    font-family: 'Zen Tokyo Zoo', cursive;
+    font-size:50px;
+    color: antiquewhite;
+}
+.p2{
+    color: brown;
+    font-family: 'Poppins', sans-serif;
+}
+.intro{
+    font-family: 'Kaushan Script', cursive;
+    font-size:20px;
+    color: rgba(255, 166, 0, 0.801);
+}
+.div1{
+    margin-left: 80px;
+}
+.gcl{
+    color: brown;
+}
+body{
+    background-color:rgb(12, 12, 12)
+}
+img{
+    height: 400px;
+    width: ;
+}
