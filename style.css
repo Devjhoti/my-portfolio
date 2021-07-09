@@ -12,9 +12,7 @@
     font-size:20px;
     color: rgba(255, 166, 0, 0.801);
 }
-.div1{
-    margin-left: 80px;
-}
+
 .gcl{
     color: brown;
 }
@@ -22,6 +20,23 @@ body{
     background-color:rgb(12, 12, 12)
 }
 img{
-    height: 400px;
-    width: ;
+    height: 900px;
+    width:900px ;
 }
+section{
+    display: flex;
+}
+.div2{
+    padding-right: 100px;
+    
+    
+    
+}
+.div1{
+    padding-left: 100px;
+    padding-top: 100px;
+    padding-right: 50px;
+
+}
+
+  
